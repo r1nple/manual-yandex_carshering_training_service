@@ -23,9 +23,9 @@
 ## Требования к проекту
 
 <details>
-  <a href="https://practicum-for-students.yonote.ru/share/0ff0230f-e963-47fa-9a87-8daa1b77fac1/doc/trebovaniya-k-funkcionalnosti-karshering-fF071lXRxM" target="_blank">Требования к функциональности Каршеринг</a>
+  <summary><a href="https://practicum-for-students.yonote.ru/share/0ff0230f-e963-47fa-9a87-8daa1b77fac1/doc/trebovaniya-k-funkcionalnosti-karshering-fF071lXRxM" target="_blank">Требования к функциональности Каршеринг</a>
   
-  <a href="https://www.figma.com/design/fPw1Xj2dYJy5mdyCg2jduh/Яндекс-Маршруты?node-id=2-18586&p=f" target="_blank">Макеты</a>
+  <a href="https://www.figma.com/design/fPw1Xj2dYJy5mdyCg2jduh/Яндекс-Маршруты?node-id=2-18586&p=f" target="_blank">Макеты</a></summary>
 
 ### Общее описание
 Яндекс.Маршруты — сервис, который строит маршруты для транспорта разных видов. Рассчитывает время и стоимость поездки. Чтобы построить маршрут пользователь вводит время отправления, улицу и номер дома. Пользователь может выбрать несколько режимов передвижения по маршруту: «Оптимальный», «Быстрый», «Свой».
